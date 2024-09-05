@@ -1,17 +1,23 @@
 body{
     margin:0px;
     padding:0px;
+    background-color: burlywood;
 }
 #intro{
-    background-color: grey;
+    background-color:brown;
     height: 100px;
     width: 100%;
     color:black;
     text-align: center;
     font-style: italic;
-    
-}
-#intro>h1{
-    margin:0px;
+    margin-top: 0px;
     padding-top: 5%;
+}
+
+#explaination{
+    margin:auto;
+    height :500px;
+    width :700px;
+    font-size: medium;
+    text-align: justify;
 }
