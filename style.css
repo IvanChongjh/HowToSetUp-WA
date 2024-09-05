@@ -9,12 +9,13 @@ body{
     width: 100%;
     color:black;
     text-align: center;
-    font-style: italic;
+    font-family: "Audiowide", sans-serif;
     margin-top: 0px;
     padding-top: 5%;
 }
 
 #explaination{
+    font-family: "Audiowide", sans-serif;
     margin:auto;
     height :500px;
     width :700px;
