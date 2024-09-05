@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+#intro{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    color:black;
+    text-align: center;
+    font-style: italic;
+    
+}
+#intro>h1{
+    margin:0px;
+    padding-top: 5%;
+}
